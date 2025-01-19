@@ -28,4 +28,4 @@ To provide stakeholders with a consolidated, actionable view of key performance 
 
 ## 🔗 **Live Dashboard and Documentation**  
 - [Explore the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWM3NjkwYTYtZDcxOC00YTBjLTk0YzYtYTg5ODc4OTYyODRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
-- Access the documentation: [Insert Documentation Link Here]
+- [Access the documentation](https://github.com/Deepanshu5483/Atliq-Hospitality-Dashboard-2.0/blob/main/Home%202.0.pdf)
