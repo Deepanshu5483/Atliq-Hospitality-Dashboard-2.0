@@ -27,5 +27,5 @@ To provide stakeholders with a consolidated, actionable view of key performance 
 - **Data Sources**: Simulated hospitality data for real-world applicability.
 
 ## 🔗 **Live Dashboard and Documentation**  
-- Explore the live dashboard(https://app.powerbi.com/view?r=eyJrIjoiNWM3NjkwYTYtZDcxOC00YTBjLTk0YzYtYTg5ODc4OTYyODRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+- {Explore the live dashboard}(https://app.powerbi.com/view?r=eyJrIjoiNWM3NjkwYTYtZDcxOC00YTBjLTk0YzYtYTg5ODc4OTYyODRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 - Access the documentation: [Insert Documentation Link Here]
